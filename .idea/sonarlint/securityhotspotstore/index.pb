@@ -11,3 +11,5 @@ F
 contracts/trading.clar,7/e/7e480343699ccc9440a9b0956f23152743eb78b7
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+E
+tests/trading.test.ts,f/0/f0756157ede790959f86d7b51ff4517a088985f5
